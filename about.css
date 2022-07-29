@@ -1,0 +1,42 @@
+body {
+    background-color: blueviolet;
+  }
+  
+  .kartu {
+    width: 550px;
+    margin: 0 auto;
+    margin-top: 50px;
+        box-shadow: 0 0.215rem 0.35rem rgba(0,0,0,.03);
+transition: all .3s;
+       background-color: #591869;
+border: solid 8px #ea92ff;
+border-top-right-radius: 30px;
+border-bottom-left-radius: 30px;
+  } 
+  .kartu:hover {
+    background-color: blueviolet;
+    border: solid 8px  blueviolet;
+    border-top-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+  }
+  .foto {
+        padding: 20px;
+margin-left: 50px;
+margin-top: 10px;
+  }
+  tbody {
+font-size: 20px;
+font-weight: 500;
+color:white;
+margin-top: 500px;
+}
+.biodata {
+margin-top: 30px;
+}
+h3{
+    margin-top: 140px;
+    text-align: center;
+    font-size: 80px;
+}
